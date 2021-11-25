@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="PacMan/src"/>
+	<classpathentry kind="src" path="picture"/>
+	<classpathentry kind="lib" path="C:/Users/Razan Zbedy/Desktop/lib to use/gson-2.6.2.jar"/>
+	<classpathentry kind="output" path="PacMan/bin"/>
+</classpath>
