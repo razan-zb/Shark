@@ -1,28 +1,52 @@
 {
-    "questions":[
-        {
-            "question": "q1",
-            "answers": [
-                "answer1",
-                "answer2",
-                "answer3",
-                "answer4"
-            ],
-            "correct_ans": "2",
-            "level": "1",
-            "team": "animal"
-        },
-        {
-            "question": "q2",
-            "answers": [
-                "answer1",
-                "answer2",
-                "answer3",
-                "answer4"
-            ],
-            "correct_ans": "1",
-            "level": "2",
-            "team": "animal"
-        }
-    ]
+  "questions": [
+    {
+      "question": "ques1",
+      "answers": [
+        "answer1",
+        "answer2",
+        "answer3",
+        "answer4"
+      ],
+      "correct_ans": "1",
+      "level": "1",
+      "team": "animal"
+    },
+    {
+      "question": "question3",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_ans": "1",
+      "level": "2",
+      "team": "animal"
+    },
+    {
+      "question": "question2",
+      "answers": [
+        "answer11",
+        "answer2",
+        "answer3",
+        "answer4"
+      ],
+      "correct_ans": "1",
+      "level": "3",
+      "team": "animal"
+    },
+    {
+      "question": "ques4",
+      "answers": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correct_ans": "1",
+      "level": "3",
+      "team": "animal"
+    }
+  ]
 }
